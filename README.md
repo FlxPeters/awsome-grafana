@@ -1,6 +1,8 @@
 # Awesome Grafana
 
-A curated list of amazingly awesome Grafana resources.
+> A curated list of amazingly awesome Grafana resources.
+
+[![Grafana](https://upload.wikimedia.org/wikipedia/en/a/a1/Grafana_logo.svg)](https://grafana.com/)
 
 Grafana is a multi-platform open source analytics and interactive visualization web application.
 
