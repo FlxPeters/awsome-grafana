@@ -24,6 +24,7 @@ Grafana is a multi-platform open source analytics and interactive visualization 
 ## Dashboards as code
 
 - [Grafonnet](https://grafana.github.io/grafonnet-lib/) - Grafonnet provides an easy and maintainable way of writing Grafana dashboards based on Jsonnet.
+- [grafanalib](https://github.com/weaveworks/grafanalib) - Python library for building Grafana dashboards by Weaveworks.
 
 ## Talks
 
